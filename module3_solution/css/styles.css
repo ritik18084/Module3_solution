@@ -32,7 +32,7 @@ li a{
 	margin: 0px -15px;
 }
 #menu-heading{
-	font-size: 1.7em;
+	font-size: 2em;
 	font-weight: bold;
 	color: #000000;
 	margin: 5px 0 10px;
@@ -40,20 +40,24 @@ li a{
 #tall-section{
 	min-height: 1000px;
 	align-self: center;
+	
+}
+#sub-section{
 	background-color: #ACD5E9;
-
+	margin-bottom: 15px;
 }
 #section{
 	margin: 35px 10px 10px;
 }
 #section-heading{
-	margin: 5px 0;
-	font-size: 1.5em;
 	font-weight: bold;
+	margin: 10px 0px;
+	padding-top:10px;
 }
 #content{
 	text-align: left;
 	font-size:1.3em;
+	margin: 0px 5px;
 }
 
 @media (max-width: 768px){
